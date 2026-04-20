@@ -1,2 +1,7 @@
 instructions.tex
 the_problems.tex
+node_modules/
+dist/
+*.js
+*.d.ts
+*.js.map
